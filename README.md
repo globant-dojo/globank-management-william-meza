@@ -1,10 +1,24 @@
-# demo-bank
-william.meza@globant.com
-13-JUL-2022
 
+![Logo](https://www.globant.com/themes/custom/globant_corp_theme/images/2019/globant-logo-dark.svg)
+
+
+# demo-bank
+
+dojo project for globant company that simulate some transactions for a bank
+
+
+
+## author meza william william.meza@globant.com
+## installation
+install my project 
 1.- run database script for Posgresql
 2.- test the endpoints according swagger doc (a)
 3.- entity class diagram (f)
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
 
 (a)http://localhost:8081/api/swagger-ui/index.html
 (b)C:/Workspace/demo-bank-client-backend/build/reports/tests/test/classes/com.globant.courier.glober.CucumberConfigTest.html
